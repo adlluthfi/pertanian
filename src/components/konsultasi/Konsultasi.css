@@ -1,0 +1,35 @@
+.message {
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    max-width: 75%;
+}
+
+.message.sent {
+    background-color: #198754;
+    color: white;
+    margin-left: auto;
+}
+
+.message.received {
+    background-color: #f8f9fa;
+    margin-right: auto;
+}
+
+.messages-box {
+    scrollbar-width: thin;
+    scrollbar-color: #198754 #f8f9fa;
+}
+
+.messages-box::-webkit-scrollbar {
+    width: 8px;
+}
+
+.messages-box::-webkit-scrollbar-track {
+    background: #f8f9fa;
+}
+
+.messages-box::-webkit-scrollbar-thumb {
+    background-color: #198754;
+    border-radius: 4px;
+}

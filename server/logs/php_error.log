@@ -1,0 +1,180 @@
+[21-May-2025 04:04:43 UTC] Processing request for order ID: 1
+[21-May-2025 04:04:43 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list'
+[21-May-2025 04:04:43 UTC] Processing request for order ID: 1
+[21-May-2025 04:04:43 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list'
+[21-May-2025 04:06:35 UTC] Processing request for order ID: 1
+[21-May-2025 04:06:35 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:06:35 UTC] Processing request for order ID: 1
+[21-May-2025 04:06:35 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:09:42 UTC] Processing request for order ID: 2
+[21-May-2025 04:09:42 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:09:42 UTC] Processing request for order ID: 2
+[21-May-2025 04:09:42 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:10:49 UTC] Processing request for order ID: 2
+[21-May-2025 04:10:49 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:10:49 UTC] Processing request for order ID: 2
+[21-May-2025 04:10:49 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:24:36 UTC] Processing request for order ID: 1
+[21-May-2025 04:24:36 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:24:36 UTC] Processing request for order ID: 1
+[21-May-2025 04:24:36 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:24:50 UTC] Processing request for order ID: 2
+[21-May-2025 04:24:50 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:24:50 UTC] Processing request for order ID: 2
+[21-May-2025 04:24:50 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:27:47 UTC] Processing request for order ID: 2
+[21-May-2025 04:27:47 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:27:47 UTC] Processing request for order ID: 2
+[21-May-2025 04:27:47 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:27:53 UTC] Processing request for order ID: 1
+[21-May-2025 04:27:53 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:27:53 UTC] Processing request for order ID: 1
+[21-May-2025 04:27:53 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:27:55 UTC] Processing request for order ID: 2
+[21-May-2025 04:27:55 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:27:55 UTC] Processing request for order ID: 2
+[21-May-2025 04:27:55 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:00 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:00 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:00 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:00 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:03 UTC] Processing request for order ID: 1
+[21-May-2025 04:28:03 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:28:03 UTC] Processing request for order ID: 1
+[21-May-2025 04:28:03 UTC] Successfully retrieved order data for ID: 1
+[21-May-2025 04:28:06 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:06 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:06 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:06 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:16 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:16 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:28:16 UTC] Processing request for order ID: 2
+[21-May-2025 04:28:16 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:31:10 UTC] Processing request for order ID: 2
+[21-May-2025 04:31:10 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:31:10 UTC] Processing request for order ID: 2
+[21-May-2025 04:31:10 UTC] Successfully retrieved order data for ID: 2
+[21-May-2025 04:33:46 UTC] Processing request for order ID: 2
+[21-May-2025 04:33:46 UTC] Application Error: Order not found
+[21-May-2025 04:33:46 UTC] Processing request for order ID: 2
+[21-May-2025 04:33:46 UTC] Application Error: Order not found
+[21-May-2025 04:34:07 UTC] Processing request for order ID: 3
+[21-May-2025 04:34:07 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 04:34:07 UTC] Processing request for order ID: 3
+[21-May-2025 04:34:07 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 04:34:22 UTC] Processing request for order ID: 3
+[21-May-2025 04:34:22 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 04:34:22 UTC] Processing request for order ID: 3
+[21-May-2025 04:34:22 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 10:33:02 UTC] Processing request for order ID: 3
+[21-May-2025 10:33:02 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 10:33:02 UTC] Processing request for order ID: 3
+[21-May-2025 10:33:02 UTC] Successfully retrieved order data for ID: 3
+[21-May-2025 10:34:29 UTC] Processing request for order ID: 4
+[21-May-2025 10:34:29 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:34:29 UTC] Processing request for order ID: 4
+[21-May-2025 10:34:29 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:34:45 UTC] Processing request for order ID: 4
+[21-May-2025 10:34:45 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:34:45 UTC] Processing request for order ID: 4
+[21-May-2025 10:34:45 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:46:13 UTC] Processing request for order ID: 5
+[21-May-2025 10:46:13 UTC] Successfully retrieved order data for ID: 5
+[21-May-2025 10:46:13 UTC] Processing request for order ID: 5
+[21-May-2025 10:46:13 UTC] Successfully retrieved order data for ID: 5
+[21-May-2025 10:46:47 UTC] Processing request for order ID: 4
+[21-May-2025 10:46:47 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:46:47 UTC] Processing request for order ID: 4
+[21-May-2025 10:46:47 UTC] Successfully retrieved order data for ID: 4
+[21-May-2025 10:46:50 UTC] Processing request for order ID: 5
+[21-May-2025 10:46:50 UTC] Successfully retrieved order data for ID: 5
+[21-May-2025 10:46:50 UTC] Processing request for order ID: 5
+[21-May-2025 10:46:50 UTC] Successfully retrieved order data for ID: 5
+[22-May-2025 04:39:04 UTC] Processing request for order ID: 5
+[22-May-2025 04:39:04 UTC] Successfully retrieved order data for ID: 5
+[22-May-2025 04:39:04 UTC] Processing request for order ID: 5
+[22-May-2025 04:39:04 UTC] Successfully retrieved order data for ID: 5
+[23-May-2025 10:25:05 UTC] Processing request for order ID: 6
+[23-May-2025 10:25:05 UTC] Successfully retrieved order data for ID: 6
+[23-May-2025 10:25:05 UTC] Processing request for order ID: 6
+[23-May-2025 10:25:05 UTC] Successfully retrieved order data for ID: 6
+[23-May-2025 10:25:32 UTC] Processing request for order ID: 6
+[23-May-2025 10:25:32 UTC] Successfully retrieved order data for ID: 6
+[23-May-2025 10:25:32 UTC] Processing request for order ID: 6
+[23-May-2025 10:25:32 UTC] Successfully retrieved order data for ID: 6
+[23-May-2025 10:55:13 UTC] Processing request for order ID: 11
+[23-May-2025 10:55:13 UTC] Successfully retrieved order data for ID: 11
+[23-May-2025 10:55:13 UTC] Processing request for order ID: 11
+[23-May-2025 10:55:13 UTC] Successfully retrieved order data for ID: 11
+[23-May-2025 10:55:36 UTC] Processing request for order ID: 11
+[23-May-2025 10:55:36 UTC] Successfully retrieved order data for ID: 11
+[23-May-2025 10:55:36 UTC] Processing request for order ID: 11
+[23-May-2025 10:55:36 UTC] Successfully retrieved order data for ID: 11
+[23-May-2025 11:29:00 UTC] Processing request for order ID: 25
+[23-May-2025 11:29:00 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:29:00 UTC] Processing request for order ID: 25
+[23-May-2025 11:29:00 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:29:17 UTC] Processing request for order ID: 25
+[23-May-2025 11:29:17 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:29:17 UTC] Processing request for order ID: 25
+[23-May-2025 11:29:17 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:13 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:13 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:13 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:13 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:26 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:26 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:26 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:26 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:40 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:40 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:40 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:40 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:58 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:58 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:35:58 UTC] Processing request for order ID: 25
+[23-May-2025 11:35:58 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:36:27 UTC] Processing request for order ID: 25
+[23-May-2025 11:36:27 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:36:27 UTC] Processing request for order ID: 25
+[23-May-2025 11:36:27 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:36:44 UTC] Processing request for order ID: 26
+[23-May-2025 11:36:44 UTC] Successfully retrieved order data for ID: 26
+[23-May-2025 11:36:44 UTC] Processing request for order ID: 26
+[23-May-2025 11:36:44 UTC] Successfully retrieved order data for ID: 26
+[23-May-2025 11:38:05 UTC] Processing request for order ID: 25
+[23-May-2025 11:38:05 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:38:05 UTC] Processing request for order ID: 25
+[23-May-2025 11:38:05 UTC] Successfully retrieved order data for ID: 25
+[23-May-2025 11:38:10 UTC] Processing request for order ID: 26
+[23-May-2025 11:38:10 UTC] Successfully retrieved order data for ID: 26
+[23-May-2025 11:38:10 UTC] Processing request for order ID: 26
+[23-May-2025 11:38:10 UTC] Successfully retrieved order data for ID: 26
+[27-May-2025 09:19:29 UTC] Processing request for order ID: 27
+[27-May-2025 09:19:29 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 09:19:29 UTC] Processing request for order ID: 27
+[27-May-2025 09:19:29 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 09:20:01 UTC] Processing request for order ID: 27
+[27-May-2025 09:20:01 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 09:20:01 UTC] Processing request for order ID: 27
+[27-May-2025 09:20:01 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 09:20:08 UTC] Processing request for order ID: 27
+[27-May-2025 09:20:08 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 09:20:08 UTC] Processing request for order ID: 27
+[27-May-2025 09:20:08 UTC] Successfully retrieved order data for ID: 27
+[27-May-2025 10:54:44 UTC] Processing request for order ID: 28
+[27-May-2025 10:54:44 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:54:44 UTC] Processing request for order ID: 28
+[27-May-2025 10:54:44 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:10 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:10 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:10 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:10 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:14 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:14 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:14 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:14 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:15 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:15 UTC] Successfully retrieved order data for ID: 28
+[27-May-2025 10:55:15 UTC] Processing request for order ID: 28
+[27-May-2025 10:55:15 UTC] Successfully retrieved order data for ID: 28
