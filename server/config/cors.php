@@ -4,7 +4,7 @@ $allowedOrigins = array(
     'https://localhost:3000',
     'https://127.0.0.1:3000',
     'http://localhost:3000'  // Add this if you're not using HTTPS in development
-    'https://pertanian-five.vercel.app'
+    'https://pertanian-blush.vercel.app'
 );
 
 // Check if origin is set and allowed
